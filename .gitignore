@@ -1,0 +1,13 @@
+.DS_Store
+__pycache__
+.ipynb_checkpoints/
+workspace/
+wip/
+archive/
+LICENSE
+*.log
+*.csv
+*.json
+*.safetensors
+models/prompt.md
+models/todo.md
