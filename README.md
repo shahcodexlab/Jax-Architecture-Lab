@@ -51,12 +51,14 @@ For setup instructions, see the [Getting Started Guide](getting-started.md).
 - Gemma
 - Qwen (30B architecture)
 - UMT5
+- Tiny Recursion Models (TRM)
 
 ---
 
 ### Speech
 
 - Whisper
+- Mimi (neural audio codec)
 
 ---
 
